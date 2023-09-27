@@ -1,8 +1,24 @@
 /*contenido de body*/
+.container{
+    display: grid;
+    margin-right: 30px;
+    margin-left: 30px;
+}
 
+.text_welc{
+   margin: auto;
+   margin-top: 50px;
+   
+}
 
+.text_welc img{
+    float: left;
+    margin-right: 16px;
+    margin-bottom: 20px;
 
+}
 
+/* contenido del nav */
 .tex-logo{
     font-size: 20px;
     background: none;
@@ -28,7 +44,7 @@ nav{
     align-items: center;
     justify-content: space-around;
     min-height: 8vh;
-    background-image: url(/img/bacgroun-menu-resp.png);
+    background-color: rgba(226, 138, 55, 0.671);
 }
 
 .ham{
