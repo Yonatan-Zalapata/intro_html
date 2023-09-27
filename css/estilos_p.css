@@ -2,7 +2,7 @@
 /* seccion despues de barra navegadora*/
 
 body{
-    background-image: url(/intro_html/img/backgroun-saction3.png);
+    background-image: url(/img/backgroun-saction3.png);
 }
 
 .logo{
@@ -10,15 +10,20 @@ body{
     height: 50px;
 }
 
+.tex-logo{
+    font-size: 20px;
+    background: none;
+    color:#f3f3f3;
+}
 
 h1 {
     text-align: center;
-    background-image: url(/intro_html/img/punta-tronco.png);
+    background-image: url(/img/punta-tronco.png);
 }
 
 h2{
     text-align: center;
-    background-image: url(/intro_html/img/pruebas/premium_photo-1671612828903-dc019accc402.png);
+    background-image: url(/img/pruebas/premium_photo-1671612828903-dc019accc402.png);
     color: #000000;
 
 }
@@ -31,7 +36,7 @@ section{
     margin-top: 5px;
 }
 article {
-    background-image: url(/intro_html/img/backgroun-art.png);
+    background-image: url(/img/backgroun-art.png);
     padding: 20px;
     display:inline-block;
     text-align: center;
@@ -63,7 +68,7 @@ nav{
     align-items: center;
     justify-content: space-around;
     min-height: 8vh;
-    background-image: url(/intro_html/img/bacgroun-menu-resp.png);
+    background-image: url(/img/bacgroun-menu-resp.png);
 }
 
 .ham{

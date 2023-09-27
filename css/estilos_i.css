@@ -28,7 +28,7 @@ nav{
     align-items: center;
     justify-content: space-around;
     min-height: 8vh;
-    background-image: url(/intro_html/img/bacgroun-menu-resp.png);
+    background-image: url(/img/bacgroun-menu-resp.png);
 }
 
 .ham{
